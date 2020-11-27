@@ -53,3 +53,8 @@ dkms.conf
 Projetos/Media-escolar/Makefile.win
 Projetos/Media-escolar/Media-escolar.dev
 Projetos/Media-escolar/Media-escolar.layout
+Projetos/Cliente_Servidor/Cliente.dev
+Projetos/Cliente_Servidor/Cliente.layout
+Projetos/Cliente_Servidor/Makefile.win
+Projetos/Cliente_Servidor/Servidor.dev
+Projetos/Cliente_Servidor/Servidor.layout
